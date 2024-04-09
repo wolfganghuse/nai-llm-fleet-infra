@@ -98,3 +98,5 @@ devcontainer.env
 ## ignore binaries
 *.tar
 *.tar.gz
+
+workdir
