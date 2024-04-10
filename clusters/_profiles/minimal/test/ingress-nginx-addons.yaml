@@ -4,6 +4,9 @@ metadata:
   name: ingress-nginx
   namespace: flux-system
 spec:
+  postBuild:
+    substitute:
+      chart_version: "4.8.3"
   components:
   - ../enable-loadbalancer
   #- ../enable-opentelemetry
