@@ -1,0 +1,9 @@
+apiVersion: helm.toolkit.fluxcd.io/v2beta2
+kind: HelmRelease
+metadata:
+  name: kyverno
+  namespace: flux-system
+spec:
+  chart:
+    spec:
+      version: 4.6.1  # New version number here
