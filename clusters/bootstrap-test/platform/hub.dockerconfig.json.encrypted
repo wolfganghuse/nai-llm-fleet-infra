@@ -1,9 +1,9 @@
 {
 	"auths": {
 		"http://docker-registry/v2/": {
-			"username": "ENC[AES256_GCM,data:QLiPUplkE37pDygf,iv:Sc6aleoE7INTHaupICD4HBuknGys4LIQiAbxQtZ4VDE=,tag:Ot0/k8AblFwV4oPB78Oa3g==,type:str]",
-			"password": "ENC[AES256_GCM,data:+Xsop0dRB6i7ada2yOgm,iv:rvDMwtN7jh7L2i6CCZ7qoFvra3Pzuy/L8hepM9WFGG8=,tag:itywAiSIfsmZzD0UkLpitA==,type:str]",
-			"auth": "ENC[AES256_GCM,data:yJxiJbU5bZem/BUYEICoujfXLpvB0tFFiWligaMePnPyevPGzsOK+g==,iv:tGbXghDRnWeqH36YgPG08cjp1y8vmAqc3nMkQGck+6k=,tag:lm2wsn+YqAC0x6l2S3WTWg==,type:str]"
+			"username": "ENC[AES256_GCM,data:khWfUAony7fpI81j,iv:Neym28gKu74tF61a+lJaDV3Ng1PUJz2/tRgpQZNbTpA=,tag:7I1khkloo+ue13M4JjxhFQ==,type:str]",
+			"password": "ENC[AES256_GCM,data:wkfyCN4CF5AFDE0UvJi6,iv:XhlATzTNQDizlP1RKQrUvT782tZ61PNG1QzMlQAffOY=,tag:Y8BOVEYi44fkdJtUb/UhSA==,type:str]",
+			"auth": "ENC[AES256_GCM,data:hyfmxh13YDA6HOhpPij0MS8vXCshnkHeNji8m5qUESklWOsxIehHEw==,iv:c7Qm9oXkBgZn6ypCBUyM1nCN8A3TpeJQmb4FHBxzdnU=,tag:NfAIwemuu5R8rN2mJnqXvQ==,type:str]"
 		}
 	},
 	"sops": {
@@ -14,11 +14,11 @@
 		"age": [
 			{
 				"recipient": "age1vxe303dqjnssjv3jdkyn54qn8tx4n8ssr00xg76w0p732f3khpfszyeatk",
-				"enc": "-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSB6TG1Gc29hSU5nbllMSEFW\nMWQxZEpRM0JYV1ZTcGl5RTJBVlNjcUszWkdnCnlTbzloS2pWdmNwK2YvSFFFb1My\ndUFVUytsNlU5SVZGUTJHZDBpallWbzAKLS0tIFFTQkloSUlqRWVlNE1vUmFLRHJ6\nOTVCOExQR0pGcnJZVUl3eXBJek9kNGMKUQ1JDrPv7L8EfxCGhYgBWNO2oGpbaStz\njCeGjAypW0pmYyDLhKN8f7+gHrmYOkJHU13s5jTBM1+b/0wGwb/Ouw==\n-----END AGE ENCRYPTED FILE-----\n"
+				"enc": "-----BEGIN AGE ENCRYPTED FILE-----\nYWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSA0ZElXSHZYbWM5ZHNQeUNE\nSkpOaVJZV1RlMjR5ejI5OGZXWnM1V0F4ekI0CnRKUzY1ZVB4RjNTYTNXL3YrQW1E\nQnFxNUQrc2NwcW5TSnZSaHk3VnV6akUKLS0tIDM5bVNsN1Z6R2ZOcHArWUxYeklS\naHhDOTF3K3V2TEhRVnNqc2ZTNFJXNEkKTxONHVNqORVyaPWkrN9oUJc5uH/w+DP9\nBe/caroMnDp2+QQK03QNUQ8M6TWCXkXdfffNb1Zi8HAg1pA5ch3tsQ==\n-----END AGE ENCRYPTED FILE-----\n"
 			}
 		],
-		"lastmodified": "2024-04-10T06:43:02Z",
-		"mac": "ENC[AES256_GCM,data:U3hy9xNG0gsCWyIPWAM2grj0nHBxcO7EhXQRsScyvlhTQrj+cVE3hVnrk5z7hhjH7CGyIgRvKfrjk5UMW2qQALzDKoX4YgTLogQUBzqLNfIN74d06jncsWjtFQ6WUW/QwiMLtZriX1eaYYjdDuawTWlOWXj9+CMSnIDRQQtIS30=,iv:AluUKcb6nMH72V0KBoMPAnTI1T17z9GplEekxxdtRjY=,tag:OPk9rm0H6JTJFVdWmM04KQ==,type:str]",
+		"lastmodified": "2024-04-10T07:18:44Z",
+		"mac": "ENC[AES256_GCM,data:S2jU875Wr1PvlZsSyxuwzYXqVKcSH9Shnt/wuQxzIvCcqF3eoTFCorte69IPq1wvm+fKQxXiUgVJDf6DGBppcOfK3vmo5x0/ZnsKSrG7AT6hHcTo4m3LHpm8Ue3+S7+/6wF953e306UTivU/2dP8zPkY3oWMdm71tg6u5YSw2eU=,iv:/rM87v/eiBjCs9zDi0fOPsnlHlU9PucW+DlzUexm9i4=,tag:K7x2m6VC5emdU5ewR9XlXA==,type:str]",
 		"pgp": null,
 		"encrypted_regex": "^(data|stringData|auths)$",
 		"version": "3.8.1"
