@@ -17,4 +17,3 @@ patches:
 # - path: milvus-addons.yaml
 # - path: elasticsearch-addons.yaml
 #- path: milvus-operator-addons.yaml
-- path: patch-ingress-nginx-version.yaml
